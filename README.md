@@ -33,7 +33,7 @@ A full-stack Q&A forum platform built with Node.js, Express, SQLite, and React.
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Varshith-JV-1410/Oodo-Hackathon-25-PS2.git
 cd Oodo-Hackathon-25-PS2
 ```
 
@@ -121,10 +121,5 @@ The application uses:
 - React Router for navigation
 - Responsive CSS for mobile-friendly design
 
-## Demo Video
 
-After deployment, record a demo showing:
-1. User registration
-2. Asking a question
-3. Answering a question
 
