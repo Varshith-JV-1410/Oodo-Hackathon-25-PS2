@@ -109,10 +109,5 @@ The application uses:
 - React Router for navigation
 - Responsive CSS for mobile-friendly design
 
-## Demo Video
 
-After deployment, record a demo showing:
-1. User registration
-2. Asking a question
-3. Answering a question
 
