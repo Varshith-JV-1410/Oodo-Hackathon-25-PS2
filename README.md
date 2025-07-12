@@ -51,6 +51,16 @@ cd ..
 
 ### Running the Application
 
+**QUICK START (Recommended):**
+```bash
+# Build and run everything in one step
+double-click start-fixed.bat
+# OR run manually:
+cd client && npm run build && cd .. && node server/server.js
+```
+The application will be available at http://localhost:5000
+
+**Alternative Development Mode:**
 1. Start the backend server (from root directory):
 ```bash
 node server/server.js
@@ -63,6 +73,8 @@ cd client
 npm start
 ```
 The frontend will run on http://localhost:3000
+
+**Note:** If you encounter React development server issues, use the Quick Start method which serves a production build.
 
 ### Usage
 

@@ -12,7 +12,7 @@ export function AuthProvider({ children }) {
   const [loading, setLoading] = useState(true);
 
   // Set up axios defaults
-  const API_URL = process.env.NODE_ENV === 'production' ? '' : '';
+  const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
   
   useEffect(() => {
     const token = localStorage.getItem('token');
