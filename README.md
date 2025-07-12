@@ -1,2 +1,2 @@
-# Oodo-Hackathon-25-PS2
-StackIt – A Minimal Q&amp;A Forum Platform
+# StackIt – A Minimal Q&A Forum Platform
+
